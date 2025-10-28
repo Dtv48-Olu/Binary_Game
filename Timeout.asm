@@ -1,0 +1,1 @@
+# After seven lines appear on the screen, and after a duration of time set past, the game will end with the "Player" losing.
